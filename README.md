@@ -2,6 +2,9 @@
 
 Final project for the Building AI course
 
+## Summary
+This project aims to develop an AI-powered chatbot for mental health support. The chatbot will provide empathetic responses, coping mechanisms, and direct users to relevant resources. It addresses the limited access to mental health resources and aims to offer support to a wide range of users. By leveraging natural language processing techniques, the chatbot will analyze user inputs, understand emotions, and provide personalized guidance. It will be available 24/7, ensuring round-the-clock assistance. The chatbot will be trained using supervised learning and reinforcement learning methods, with a focus on maintaining privacy and reducing biases. Users can interact with the chatbot through a website or a mobile application, receiving tailored support and referrals when necessary. The project emphasizes ethical considerations and suggests future enhancements such as multilingual support and seamless handover to human professionals.
+
 ## Overview
 
 The project aims to develop an AI-powered chatbot for mental health support. It will provide empathetic responses, offer coping mechanisms, and direct users to appropriate resources for managing their emotional well-being. The chatbot addresses the common problem of limited access to mental health resources and aims to provide support to a wide range of users.
